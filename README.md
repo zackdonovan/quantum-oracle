@@ -1,6 +1,6 @@
 # Quantum Interference Demo
 
-This repository contains a small, beginner-friendly Qiskit script that demonstrates how quantum phase becomes physically useful only after interference recombines amplitudes.
+This repository contains a small Qiskit script that demonstrates how quantum phase becomes physically useful only after interference recombines amplitudes.
 
 Run it with:
 
