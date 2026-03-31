@@ -1,6 +1,6 @@
 # Quantum Interference Demo
 
-This repository contains a small, beginner-friendly Qiskit script that demonstrates how quantum phase becomes physically useful only after interference recombines amplitudes.
+This repository contains a small Qiskit script that demonstrates how quantum phase becomes physically useful only after interference recombines amplitudes.
 
 The Grover section now frames the oracle as a tiny search problem instead of simply saying "mark `|11>`":
 find the 2-bit value `x` such that `x + 1 = 4`.
